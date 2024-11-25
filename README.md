@@ -14,9 +14,9 @@ Ce projet est une version simplifiée du jeu classique **Duck Hunt**, développ�
 
 Avant de pouvoir compiler et exécuter le jeu, assurez-vous d'avoir les éléments suivants :  
 
-- **Linux** (testé sur POPos et autres distributions basées sur Debian)  
-- **GCC** (compilateur C).  
-- **CSFML** (si vous utilisez cette bibliothèque pour le rendu graphique).  
+- **Linux**
+- **GCC** 
+- **CSFML**
 - Les bibliothèques standard du C.
 
 ## Installation
