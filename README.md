@@ -24,7 +24,7 @@ Avant de pouvoir compiler et exécuter le jeu, assurez-vous d'avoir les élémen
 1. Clonez ce dépôt dans votre environnement local :  
    ```bash
    git clone https://github.com/votre-utilisateur/duck_hunt_simple.git
-   cd duck_hunt_simple
+   cd Duck_Hunt
 2. Dans votre terminal lancer la commande :
    ```bash
    make
